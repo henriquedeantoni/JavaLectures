@@ -1,5 +1,4 @@
-# Desafios em Java proprosta por Nélio Alves
-
+# Java Challenges and Lectures
 ## Interfaces #1
 A company wants to automate the processing of its contracts. Processing a contract consists of generating the installments to be paid for that contract, based on the desired number of months.
 The company uses an online payment service to make the installment payments. Online payment services typically charge monthly interest, as well as a payment fee. For now, the company uses the PayPal service, which applies simple interest of 1% per installment, plus a payment fee of 2%.
