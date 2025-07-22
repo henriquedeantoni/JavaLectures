@@ -28,5 +28,4 @@ public class Candidate {
 		this.partyCode = partyCode;
 	}
 	
-	
 }
