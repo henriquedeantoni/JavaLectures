@@ -60,3 +60,25 @@ Deliveries: <br>
 31/03/2023 - 106.50 <br>  
 07/04/2023 - 106.50 <br>
 (Each delivery: 100.00 base + 5.00 + 1.5% of 100.00 = 106.50)
+
+## Lambda Function #2
+
+Write a program to read employee data (name, email, and salary) from a .csv file.
+Then, display in alphabetical order the emails of employees whose salary is greater than a value provided by the user.
+Also, display the sum of the salaries of employees whose names start with the letter 'M'.
+
+Input file:
+Maria,maria@gmail.com,3200.00 <br>
+Alex,alex@gmail.com,1900.00 <br>
+Marco,marco@gmail.com,1700.00 <br>
+Bob,bob@gmail.com,3500.00 <br>
+Anna,anna@gmail.com,2800.00 <br>
+
+Execution:
+Enter full file path: c:\temp\in.txt <br>
+Enter salary: 2000.00 <br>
+Email of people whose salary is more than 2000.00: <br>
+anna@gmail.com <br>
+bob@gmail.com <br>
+maria@gmail.com <br>
+Sum of salary of people whose name starts with 'M': 4900.00 <br>
